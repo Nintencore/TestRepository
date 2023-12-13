@@ -8,6 +8,7 @@ public class Principal {
 		System.out.println("Añado funcionalidades");
 		System.out.println("Final");
 		System.out.println("Version");
+		System.out.println("EdicionGIT");
 	}
 
 }
